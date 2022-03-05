@@ -62,51 +62,29 @@ export default function About() {
               <AccordionPanel pb={4}>
                 <OrderedList>
                   <ListItem>
-                    Merupakan lanjutan dari SHDRK (Seminar Hidup Dalam Roh Kudus
-                    ){" "}
+                    Merupakan lanjutan dari SHDRK (Seminar Hidup Dalam Roh
+                    Kudus)
                   </ListItem>
                   <ListItem>
-                    Dalam SHDRK kita sudah mengalami pencurahan RK dan itu tidak
-                    berarti selesai sampai disitu.
+                    Dalam SHDRK kita sudah mengalami pencurahan Roh Kudus dan
+                    itu tidak berarti selesai sampai disitu.
                   </ListItem>
                   <ListItem>
-                    Dalam kehidupan banyak hal / masalah yang membuat kita
-                    mungkin down bahkan jauh dari Tuhan meskipun sudah
-                    dicurahkan RK. Nah dlm BCM ada sesi-sesi utk tetap berakar,
-                    bertumbuh dan berbuah dalam Yesus
+                    Dalam kehidupan, banyak hal / masalah yang membuat kita
+                    mungkin down bahkan menjauh dari Tuhan meskipun sudah
+                    mengalami pencurahan Roh Kudus. Di dalam BCM, kita belajar
+                    untuk tetap berakar, bertumbuh dan berbuah dalam Yesus.
+                    Tetap menjaga api Roh Kudus di dalam diri kita dan bertumbuh
+                    menuju kedewasaan rohani.
                   </ListItem>
                 </OrderedList>
-                Pembaharuan Karismatik dalam Gereja telah membawa banyak berkat
-                bagi orang beriman. Pengalaman Pencurahan ROh Kudus telah
-                membawa pertobatan dan pembaharuan hidup dalam diri banyak
-                sekali orang Kristen. Banyak hidup yang di perbaharui, di ubah
-                oleh penalam Roh Kudus yang diberikan Allah secara
-                berlimpah-limpah kepada umat-Nya yang mau membuka hati. Hal itu
-                sungguh merupakan suatu berkat bagi Gereja dan dunia.
-                <br />
-                Namun Pencurahan Roh Kudus bukanlah puncak dari pembaharuan yang
-                dihadirkan oleh Roh Kudus dalam Gereja. Pencurahan hanyalah
-                merupakan suatu permulaan. Memang, suatu pengalaman rohani yang
-                berdaya kekuatan besar dan mampu mengubah dan memperbaharui
-                hidup orang. Namun tak dapat disangkal bahwa itu barulah
-                permulaannya saja. Bila orang melihat pencurahan Roh Kdus hanya
-                sebagi suatu pengalaman yang terpisah, lepas dari suatu
-                penggilan hitup tertentu, kekuatannya akan cepat hilang dalam
-                rutinitas kehidupan sehari-hari. Karena itu pencurahan Roh Kudus
-                haruslah di lihat sebagai suatu panggilan untuk menempuh suatu
-                cara hidup baru, dengan suatu kesadaran baru akan kehadiran baru
-                Roh Kudus dalam diri kita. Dengan kata lain, pencurahan adalah
-                suatu panggilan untuk hidup dalam Roh, suatu hidup yang
-                bersandar pada kuasa Roh Kudus dan aktivitasnya, suatu hidup
-                yang ditandai oleh bimbinganNya.
-                <br />
                 Pencurahan Roh Kudus adalah suatu titik permulaan untuk hidup
-                baru tersebut dan kita harus terus bertumbuh menuju suatu
-                kedewasaan rohani. Untuk terus tumbuh, kita memerlukan
-                pengertian yang tepat tentang dinamika hidup dalam Roh tersebut
-                serta segala persyaratannya. Harus digambarkan dengan jelas apa
-                tujuan yang ingin kita capai dan bagaimana selanjutnya proses
-                perjalanan kita serta sarana-sarana yang di perlukan.
+                baru, tetapi kita harus terus bertumbuh menuju suatu kedewasaan
+                rohani. Untuk terus tumbuh, kita perlu mengerti bagaimana
+                caranya untuk tetap berakar, hidup dalam dunia dan komunitas
+                Kristiani, mengatasi kedagingan dan kelemahan kelemahan kita,
+                dan masih banyak lagi yang semua nya akan dijelaskan di dalam
+                seminar ini.
               </AccordionPanel>
             </AccordionItem>
 
