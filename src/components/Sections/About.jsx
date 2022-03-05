@@ -30,7 +30,7 @@ export default function About() {
             </p>
           </HeaderInfo>
           <br />
-          <Accordion className="whiteBg">
+          <Accordion className="whiteBg" allowMultiple allowToggle>
             <AccordionItem>
               <h2>
                 <AccordionButton>
@@ -136,26 +136,6 @@ export default function About() {
               </h2>
               <AccordionPanel pb={4}>
                 Berikut ini adalah jadwal BCM 2022
-                <Img
-                  className="radius8"
-                  src={JadwalImage}
-                  alt="office"
-                  style={{ zIndex: 9, width: "95%", alignItems: "end" }}
-                />
-              </AccordionPanel>
-            </AccordionItem>
-            <AccordionItem>
-              <h2>
-                <AccordionButton>
-                  <Box flex="1" textAlign="left">
-                    <b> Bagaimana jadwal belajarnya? </b>
-                  </Box>
-                  <AccordionIcon />
-                </AccordionButton>
-              </h2>
-              <AccordionPanel pb={4}>
-                Berikut ini adalah jadwal pengajaran yang berlangsung mulai Juni
-                2022 - Februari 2023
                 <Img
                   className="radius8"
                   src={JadwalImage}

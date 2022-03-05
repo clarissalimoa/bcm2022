@@ -1,14 +1,34 @@
 import React from "react";
 import styled from "styled-components";
+import {
+  Modal,
+  ModalBody,
+  ModalCloseButton,
+  ModalContent,
+  ModalOverlay,
+  useDisclosure,
+} from "@chakra-ui/react";
 
-export default function ProjectBox({ img, title, text, action}) {
+export default function ProjectBox({ img, title, text }) {
+  const { isOpen, onOpen, onClose } = useDisclosure();
+
   return (
     <Wrapper>
-      <ImgBtn className="aniamte pointer" onClick={action ? () => action() : null}>
+      <ImgBtn className="aniamte pointer" onClick={onOpen}>
         <img className="radius8" src={img} alt="project"></img>
       </ImgBtn>
       <h3 className="font20 extraBold">{title}</h3>
       <p className="font13">{text}</p>
+
+      <Modal isOpen={isOpen} onClose={onClose} size={"full"}>
+        <ModalOverlay />
+        <ModalContent>
+          <ModalCloseButton />
+          <ModalBody>
+            <img src={img} alt="project"></img>
+          </ModalBody>
+        </ModalContent>
+      </Modal>
     </Wrapper>
   );
 }
