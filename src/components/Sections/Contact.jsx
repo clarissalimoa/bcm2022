@@ -29,11 +29,14 @@ export default function Contact() {
           <HeaderInfo>
             <h1 className="font40 extraBold">Form Pendaftaran</h1>
           </HeaderInfo>
+          <div>
+            Pembayaran hanya via <b> BCA 1681105404 an Engdah Hasjim</b>
+          </div>
+
           <div
             className="center"
             style={{ display: "flex", justifyContent: "center" }}
           >
-            Pembayaran hanya via BCA 1681105404 an Engdah Hasjim!
             <iframe
               title="Form Pendaftaran BCM 2022"
               src="https://docs.google.com/forms/d/e/1FAIpQLSfOtdBY47NlFm32Jv8kONgsUr7-wBjo0d8SbBFUNAK5fT910g/viewform?embedded=true"
