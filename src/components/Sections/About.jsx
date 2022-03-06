@@ -87,7 +87,19 @@ export default function About() {
                 seminar ini.
               </AccordionPanel>
             </AccordionItem>
-
+            <AccordionItem>
+              <h2>
+                <AccordionButton>
+                  <Box flex="1" textAlign="left">
+                    <b> Acara dilaksanakan secara online/offline? </b>
+                  </Box>
+                  <AccordionIcon />
+                </AccordionButton>
+              </h2>
+              <AccordionPanel pb={4}>
+                Acara akan dilaksanakan secara ONLINE menggunakan Zoom Meeting.
+              </AccordionPanel>
+            </AccordionItem>
             <AccordionItem>
               <h2>
                 <AccordionButton>
@@ -99,7 +111,8 @@ export default function About() {
               </h2>
               <AccordionPanel pb={4}>
                 Biaya pendaftaran BCM sebesar <b> Rp 25.000,-</b> dengan rincian
-                sebagai pengganti buku.
+                sebagai pengganti buku. Pembayaran hanya via BCA 1681105404 an
+                Engdah Hasjim.
               </AccordionPanel>
             </AccordionItem>
 
